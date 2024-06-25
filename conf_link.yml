@@ -1,0 +1,11 @@
+# Link list generator
+# Created By Roberta Brandao
+
+site_title: '7 Point Refrigera&ccedil;&atuilde;o'
+
+site_url:
+  contato:
+    - name: 'WhatsApp: (11) 98287-2397'
+      url: 'https://wa.me/5511982872397'
+    - name: 'email: nilson7point@gmail.com'
+      url: 'mailto:nilson7point@gmail.com'
